@@ -4,9 +4,9 @@
             "categoria": "Tostadas",
             "platillos": [
                 {
-                    "nombre": "",
-                    "descripcion": "",
-                    "precio": 0,
+                    "nombre": "Tostada de Mariscos",
+                    "descripcion": "Falta descripción",
+                    "precio": 210,
                     "imagen": "https://www.example.com/tostada.jpg",
                     "disponibilidad": true,
                     "ingredientes": [
@@ -15,7 +15,93 @@
                         "Ingrediente 3",
                         "Ingrediente 4"
                     ]
-                }
+                },
+                
+
+                {
+                    "nombre": "Tostada de Atún",
+                    "descripcion": "Falta descripción",
+                    "precio": 220,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                },
+
+                {
+                    "nombre": "Orden de Atún (3T)",
+                    "descripcion": "Falta descripción",
+                    "precio": 600,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                },
+
+                {
+                    "nombre": "Tostada de Salmón",
+                    "descripcion": "Falta descripción",
+                    "precio": 220,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                },
+
+                {
+                    "nombre": "Orden de Salmón (3T)",
+                    "descripcion": "Falta descripción",
+                    "precio": 600,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                },
+                {
+                    "nombre": "Tostada JL",
+                    "descripcion": "Falta descripción",
+                    "precio": 280,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                },
+
+                {
+                    "nombre": "Tostada de Ceviche",
+                    "descripcion": "Falta descripción",
+                    "precio": 60,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                },
+
+
             ]
         }
     ]
