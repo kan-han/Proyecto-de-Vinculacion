@@ -192,7 +192,196 @@
                     ]
                 }
             ]
+        },
+
+        {
+            "categoria": "Botanas",
+            "platillos": [
+                {
+                    "nombre": "Botana",
+                    "descripcion": "Falta descripción",
+                    "precio": 380,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                },
+                
+
+                {
+                    "nombre": "1/2 Botana",
+                    "descripcion": "Falta descripción",
+                    "precio": 290,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                },
+
+                {
+                    "nombre": "Angulas",
+                    "descripcion": "Falta descripción",
+                    "precio": 400,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                },
+
+                {
+                    "nombre": "Carpaccio de Salmón",
+                    "descripcion": "Falta descripción",
+                    "precio": 380,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                },
+
+                {
+                    "nombre": "1/2 Carpaccio de Salmón",
+                    "descripcion": "Falta descripción",
+                    "precio": 300,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                },
+                {
+                    "nombre": "Salmón Canadá",
+                    "descripcion": "Falta descripción",
+                    "precio": 400,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                },
+
+                {
+                    "nombre": "1/2 Salmón Canadá",
+                    "descripcion": "Falta descripción",
+                    "precio": 320,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                },
+
+                {
+                    "nombre": "Aguachile",
+                    "descripcion": "Falta descripción",
+                    "precio": 380,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                },
+
+                {
+                    "nombre": "1/2 Aguachile",
+                    "descripcion": "Falta descripción",
+                    "precio": 290,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                },
+
+                {
+                    "nombre": "Carpaccio de Atún",
+                    "descripcion": "Falta descripción",
+                    "precio": 380,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                },
+
+                {
+                    "nombre": "Atún Canadá",
+                    "descripcion": "Falta descripción",
+                    "precio": 400,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                },
+
+                {
+                    "nombre": "1/2 Atún Canadá",
+                    "descripcion": "Falta descripción",
+                    "precio": 320,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                },
+
+                {
+                    "nombre": "Abulon Vivo",
+                    "descripcion": "Falta descripción",
+                    "precio": 150,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                }
+
+            ]
         }
+
 
     ]
 }
