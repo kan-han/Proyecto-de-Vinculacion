@@ -1,0 +1,22 @@
+{
+    "menu": [
+        {
+            "categoria": "Tostadas",
+            "platillos": [
+                {
+                    "nombre": "",
+                    "descripcion": "",
+                    "precio": 0,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                }
+            ]
+        }
+    ]
+}
