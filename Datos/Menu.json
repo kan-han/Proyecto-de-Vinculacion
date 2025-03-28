@@ -380,7 +380,210 @@
                 }
 
             ]
+        },
+
+        {
+            "categoria": "Ordenes",
+            "platillos": [
+                {
+                    "nombre": "Callo de Acha",
+                    "descripcion": "Falta descripción",
+                    "precio": 430,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                },
+                
+
+                {
+                    "nombre": "Tenazas (3 o 4 piezas)",
+                    "descripcion": "Falta descripción",
+                    "precio": 320,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                },
+
+                {
+                    "nombre": "Ordene de Ostion",
+                    "descripcion": "Falta descripción",
+                    "precio": 160,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                },
+
+                {
+                    "nombre": "1/2 Orden de Ostion",
+                    "descripcion": "Falta descripción",
+                    "precio": 120,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                },
+
+                {
+                    "nombre": "Almeja Melón (1 pieza)",
+                    "descripcion": "Falta descripción",
+                    "precio": 200,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                },
+                {
+                    "nombre": "Almeja Chocolata (4 piezas)",
+                    "descripcion": "Falta descripción",
+                    "precio": 320,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                },
+
+                {
+                    "nombre": "Almeja Roja (1 pieza)",
+                    "descripcion": "Falta descripción",
+                    "precio": 100,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                },
+
+                {
+                    "nombre": "Ostión Piedra Vivo (4 piezas)",
+                    "descripcion": "Falta descripción",
+                    "precio": 360,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                },
+
+                {
+                    "nombre": "Trucha Ahumada",
+                    "descripcion": "Falta descripción",
+                    "precio": 280,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                },
+
+                {
+                    "nombre": "Ostión a la Jardinera (9 piezas)",
+                    "descripcion": "Falta descripción",
+                    "precio": 280,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                },
+
+                {
+                    "nombre": "1/2 Ostión a la Jardinera (5 piezas)",
+                    "descripcion": "Falta descripción",
+                    "precio": 180,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                },
+
+                {
+                    "nombre": "Ostion Ahumado",
+                    "descripcion": "Falta descripción",
+                    "precio": 180,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                },
+
+                {
+                    "nombre": "Orden de Queso",
+                    "descripcion": "Falta descripción",
+                    "precio": 40,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                },
+
+                {
+                    "nombre": "Orden de Aceitunas",
+                    "descripcion": "Falta descripción",
+                    "precio": 40,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                }
+
+            ]
         }
+
 
 
     ]
