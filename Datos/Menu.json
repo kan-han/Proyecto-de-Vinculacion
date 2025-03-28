@@ -701,6 +701,138 @@
 
 
             ]
+        },
+
+        {
+            "categoria": "Bebidas",
+            "platillos": [
+                {
+                    "nombre": "Limonada",
+                    "descripcion": "Falta descripción",
+                    "precio": 50,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                },
+                
+
+                {
+                    "nombre": "Rusa",
+                    "descripcion": "Falta descripción",
+                    "precio": 30,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                },
+
+                {
+                    "nombre": "Refresco",
+                    "descripcion": "Falta descripción",
+                    "precio": 30,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                },
+
+                {
+                    "nombre": "Clamato",
+                    "descripcion": "Falta descripción",
+                    "precio": 40,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                },
+
+                {
+                    "nombre": "Cerveza",
+                    "descripcion": "Falta descripción",
+                    "precio": 50,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                },
+                {
+                    "nombre": "Cielada",
+                    "descripcion": "Falta descripción",
+                    "precio": 60,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                },
+
+                {
+                    "nombre": "Michelada",
+                    "descripcion": "Falta descripción",
+                    "precio": 50,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                },
+
+                {
+                    "nombre": "Michelada Clamato",
+                    "descripcion": "Falta descripción",
+                    "precio": 70,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                },
+
+                {
+                    "nombre": "Michelada Capitán",
+                    "descripcion": "Falta descripción",
+                    "precio": 70,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                }
+
+            ]
         }
 
 
