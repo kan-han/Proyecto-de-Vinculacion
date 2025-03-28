@@ -103,6 +103,96 @@
 
 
             ]
+        },
+
+        {
+            "categoria": "Cocteles",
+            "platillos": [
+                {
+                    "nombre": "Coctel Grande",
+                    "descripcion": "Falta descripción",
+                    "precio": 240,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                },
+                
+
+                {
+                    "nombre": "Coctel Mediano",
+                    "descripcion": "Falta descripción",
+                    "precio": 210,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                },
+
+                {
+                    "nombre": "Coctel al Clamato",
+                    "descripcion": "Falta descripción",
+                    "precio": 260,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                },
+
+                {
+                    "nombre": "Cazuela",
+                    "descripcion": "Falta descripción",
+                    "precio": 240,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                },
+
+                {
+                    "nombre": "1/2 Cazuela",
+                    "descripcion": "Falta descripción",
+                    "precio": 210,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                },
+                {
+                    "nombre": "Shot de Ostión",
+                    "descripcion": "Falta descripción",
+                    "precio": 40,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                }
+            ]
         }
+
     ]
 }
