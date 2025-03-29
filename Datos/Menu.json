@@ -833,6 +833,56 @@
                 }
 
             ]
+        },
+
+        {
+            "categoria": "Postres",
+            "platillos": [
+                {
+                    "nombre": "Dulces Árabes",
+                    "descripcion": "Falta descripción",
+                    "precio": 35,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                },
+                
+
+                {
+                    "nombre": "Dulces Artesanales",
+                    "descripcion": "Falta descripción",
+                    "precio": 35,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                },
+
+                {
+                    "nombre": "Repostería",
+                    "descripcion": "Falta descripción",
+                    "precio": 45,
+                    "imagen": "https://www.example.com/tostada.jpg",
+                    "disponibilidad": true,
+                    "ingredientes": [
+                        "Ingrediente 1",
+                        "Ingrediente 2",
+                        "Ingrediente 3",
+                        "Ingrediente 4"
+                    ]
+                }
+
+
+            ]
         }
 
 
