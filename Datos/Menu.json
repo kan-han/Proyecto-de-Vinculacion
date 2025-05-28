@@ -327,7 +327,7 @@
                     "nombre": "Carpaccio de Atún",
                     "descripcion": "Falta descripción",
                     "precio": 380,
-                    "imagen": "../../Imagenes/",
+                    "imagen": "../../Imagenes/carpaccio-atun.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -341,7 +341,7 @@
                     "nombre": "Atún Canadá",
                     "descripcion": "Falta descripción",
                     "precio": 400,
-                    "imagen": "../../Imagenes/",
+                    "imagen": "../../Imagenes/atun-canada.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -355,7 +355,7 @@
                     "nombre": "1/2 Atún Canadá",
                     "descripcion": "Falta descripción",
                     "precio": 320,
-                    "imagen": "../../Imagenes/",
+                    "imagen": "../../Imagenes/atun-canada-medio.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -369,7 +369,7 @@
                     "nombre": "Abulon Vivo",
                     "descripcion": "Falta descripción",
                     "precio": 150,
-                    "imagen": "../../Imagenes/",
+                    "imagen": "../../Imagenes/abulon-vivo.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -389,7 +389,7 @@
                     "nombre": "Callo de Acha",
                     "descripcion": "Falta descripción",
                     "precio": 430,
-                    "imagen": "../../Imagenes/",
+                    "imagen": "../../Imagenes/callo-acha.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -404,7 +404,7 @@
                     "nombre": "Tenazas (3 o 4 piezas)",
                     "descripcion": "Falta descripción",
                     "precio": 320,
-                    "imagen": "../../Imagenes/",
+                    "imagen": "../../Imagenes/tenazas.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -415,10 +415,10 @@
                 },
 
                 {
-                    "nombre": "Ordene de Ostion",
+                    "nombre": "Orden de Ostion",
                     "descripcion": "Falta descripción",
                     "precio": 160,
-                    "imagen": "../../Imagenes/",
+                    "imagen": "../../Imagenes/orden-ostion.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -432,7 +432,7 @@
                     "nombre": "1/2 Orden de Ostion",
                     "descripcion": "Falta descripción",
                     "precio": 120,
-                    "imagen": "../../Imagenes/",
+                    "imagen": "../../Imagenes/orden-ostion-media.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -446,7 +446,7 @@
                     "nombre": "Almeja Melón (1 pieza)",
                     "descripcion": "Falta descripción",
                     "precio": 200,
-                    "imagen": "../../Imagenes/",
+                    "imagen": "../../Imagenes/almeja-melon.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -459,7 +459,7 @@
                     "nombre": "Almeja Chocolata (4 piezas)",
                     "descripcion": "Falta descripción",
                     "precio": 320,
-                    "imagen": "../../Imagenes/",
+                    "imagen": "../../Imagenes/almeja-chocolata.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -473,7 +473,7 @@
                     "nombre": "Almeja Roja (1 pieza)",
                     "descripcion": "Falta descripción",
                     "precio": 100,
-                    "imagen": "../../Imagenes/",
+                    "imagen": "../../Imagenes/almeja-roja.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -487,7 +487,7 @@
                     "nombre": "Ostión Piedra Vivo (4 piezas)",
                     "descripcion": "Falta descripción",
                     "precio": 360,
-                    "imagen": "../../Imagenes/",
+                    "imagen": "../../Imagenes/ostion-piedra-vivo.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -501,7 +501,7 @@
                     "nombre": "Trucha Ahumada",
                     "descripcion": "Falta descripción",
                     "precio": 280,
-                    "imagen": "../../Imagenes/",
+                    "imagen": "../../Imagenes/trucha-ahumada.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -515,7 +515,7 @@
                     "nombre": "Ostión a la Jardinera (9 piezas)",
                     "descripcion": "Falta descripción",
                     "precio": 280,
-                    "imagen": "../../Imagenes/",
+                    "imagen": "../../Imagenes/ostion-jardinera.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -529,7 +529,7 @@
                     "nombre": "1/2 Ostión a la Jardinera (5 piezas)",
                     "descripcion": "Falta descripción",
                     "precio": 180,
-                    "imagen": "../../Imagenes/",
+                    "imagen": "../../Imagenes/ostion-jardinera-media.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
