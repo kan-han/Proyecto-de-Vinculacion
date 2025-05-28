@@ -7,7 +7,7 @@
                     "nombre": "Tostada de Mariscos",
                     "descripcion": "Falta descripción",
                     "precio": 210,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/tostada-mariscos.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -22,7 +22,7 @@
                     "nombre": "Tostada de Atún",
                     "descripcion": "Falta descripción",
                     "precio": 220,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/tostada-atun.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -36,7 +36,7 @@
                     "nombre": "Orden de Atún (3T)",
                     "descripcion": "Falta descripción",
                     "precio": 600,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/orden-atun.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -50,7 +50,7 @@
                     "nombre": "Tostada de Salmón",
                     "descripcion": "Falta descripción",
                     "precio": 220,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/tostada-salmon.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -64,7 +64,7 @@
                     "nombre": "Orden de Salmón (3T)",
                     "descripcion": "Falta descripción",
                     "precio": 600,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/orden-salmon.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -77,7 +77,7 @@
                     "nombre": "Tostada JL",
                     "descripcion": "Falta descripción",
                     "precio": 280,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/tostada-jl.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -91,7 +91,7 @@
                     "nombre": "Tostada de Ceviche",
                     "descripcion": "Falta descripción",
                     "precio": 60,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/tostada-ceviche.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -112,7 +112,7 @@
                     "nombre": "Coctel Grande",
                     "descripcion": "Falta descripción",
                     "precio": 240,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/coctel-grande.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -127,7 +127,7 @@
                     "nombre": "Coctel Mediano",
                     "descripcion": "Falta descripción",
                     "precio": 210,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/coctel-mediano.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -141,7 +141,7 @@
                     "nombre": "Coctel al Clamato",
                     "descripcion": "Falta descripción",
                     "precio": 260,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/coctel-clamato.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -155,7 +155,7 @@
                     "nombre": "Cazuela",
                     "descripcion": "Falta descripción",
                     "precio": 240,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/cazuela-entera.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -169,7 +169,7 @@
                     "nombre": "1/2 Cazuela",
                     "descripcion": "Falta descripción",
                     "precio": 210,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/cazuela-media.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -182,7 +182,7 @@
                     "nombre": "Shot de Ostión",
                     "descripcion": "Falta descripción",
                     "precio": 40,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/shot-ostion.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -201,7 +201,7 @@
                     "nombre": "Botana",
                     "descripcion": "Falta descripción",
                     "precio": 380,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/botana.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -216,7 +216,7 @@
                     "nombre": "1/2 Botana",
                     "descripcion": "Falta descripción",
                     "precio": 290,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/botana-media.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -230,7 +230,7 @@
                     "nombre": "Angulas",
                     "descripcion": "Falta descripción",
                     "precio": 400,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/angulas.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -244,7 +244,7 @@
                     "nombre": "Carpaccio de Salmón",
                     "descripcion": "Falta descripción",
                     "precio": 380,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/carpaccio-salmon.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -258,7 +258,7 @@
                     "nombre": "1/2 Carpaccio de Salmón",
                     "descripcion": "Falta descripción",
                     "precio": 300,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/carpaccio-salmon-media.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -271,7 +271,7 @@
                     "nombre": "Salmón Canadá",
                     "descripcion": "Falta descripción",
                     "precio": 400,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/salmon-canada.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -285,7 +285,7 @@
                     "nombre": "1/2 Salmón Canadá",
                     "descripcion": "Falta descripción",
                     "precio": 320,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/salmon-canada-media.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -299,7 +299,7 @@
                     "nombre": "Aguachile",
                     "descripcion": "Falta descripción",
                     "precio": 380,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/aguachile.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -313,7 +313,7 @@
                     "nombre": "1/2 Aguachile",
                     "descripcion": "Falta descripción",
                     "precio": 290,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/aguachile-media.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -327,7 +327,7 @@
                     "nombre": "Carpaccio de Atún",
                     "descripcion": "Falta descripción",
                     "precio": 380,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -341,7 +341,7 @@
                     "nombre": "Atún Canadá",
                     "descripcion": "Falta descripción",
                     "precio": 400,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -355,7 +355,7 @@
                     "nombre": "1/2 Atún Canadá",
                     "descripcion": "Falta descripción",
                     "precio": 320,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -369,7 +369,7 @@
                     "nombre": "Abulon Vivo",
                     "descripcion": "Falta descripción",
                     "precio": 150,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -389,7 +389,7 @@
                     "nombre": "Callo de Acha",
                     "descripcion": "Falta descripción",
                     "precio": 430,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -404,7 +404,7 @@
                     "nombre": "Tenazas (3 o 4 piezas)",
                     "descripcion": "Falta descripción",
                     "precio": 320,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -418,7 +418,7 @@
                     "nombre": "Ordene de Ostion",
                     "descripcion": "Falta descripción",
                     "precio": 160,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -432,7 +432,7 @@
                     "nombre": "1/2 Orden de Ostion",
                     "descripcion": "Falta descripción",
                     "precio": 120,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -446,7 +446,7 @@
                     "nombre": "Almeja Melón (1 pieza)",
                     "descripcion": "Falta descripción",
                     "precio": 200,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -459,7 +459,7 @@
                     "nombre": "Almeja Chocolata (4 piezas)",
                     "descripcion": "Falta descripción",
                     "precio": 320,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -473,7 +473,7 @@
                     "nombre": "Almeja Roja (1 pieza)",
                     "descripcion": "Falta descripción",
                     "precio": 100,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -487,7 +487,7 @@
                     "nombre": "Ostión Piedra Vivo (4 piezas)",
                     "descripcion": "Falta descripción",
                     "precio": 360,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -501,7 +501,7 @@
                     "nombre": "Trucha Ahumada",
                     "descripcion": "Falta descripción",
                     "precio": 280,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -515,7 +515,7 @@
                     "nombre": "Ostión a la Jardinera (9 piezas)",
                     "descripcion": "Falta descripción",
                     "precio": 280,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -529,7 +529,7 @@
                     "nombre": "1/2 Ostión a la Jardinera (5 piezas)",
                     "descripcion": "Falta descripción",
                     "precio": 180,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -543,7 +543,7 @@
                     "nombre": "Ostion Ahumado",
                     "descripcion": "Falta descripción",
                     "precio": 180,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -557,7 +557,7 @@
                     "nombre": "Orden de Queso",
                     "descripcion": "Falta descripción",
                     "precio": 40,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -571,7 +571,7 @@
                     "nombre": "Orden de Aceitunas",
                     "descripcion": "Falta descripción",
                     "precio": 40,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -591,7 +591,7 @@
                     "nombre": "Quesadilla de Marlín",
                     "descripcion": "Falta descripción",
                     "precio": 80,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -606,7 +606,7 @@
                     "nombre": "Quesadilla de Camarón",
                     "descripcion": "Falta descripción",
                     "precio": 80,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -620,7 +620,7 @@
                     "nombre": "Camarones Zarandeados",
                     "descripcion": "Falta descripción",
                     "precio": 300,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -634,7 +634,7 @@
                     "nombre": "Pulpo a la Parrilla",
                     "descripcion": "Falta descripción",
                     "precio": 350,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -648,7 +648,7 @@
                     "nombre": "Salmón Empapelado",
                     "descripcion": "Falta descripción",
                     "precio": 350,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -661,7 +661,7 @@
                     "nombre": "Caldo de Camarón",
                     "descripcion": "Falta descripción",
                     "precio": 240,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -675,7 +675,7 @@
                     "nombre": "1/2 Caldo de Camarón",
                     "descripcion": "Falta descripción",
                     "precio": 210,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -689,7 +689,7 @@
                     "nombre": "Orden de Arroz",
                     "descripcion": "Falta descripción",
                     "precio": 50,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -710,7 +710,7 @@
                     "nombre": "Limonada",
                     "descripcion": "Falta descripción",
                     "precio": 50,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -725,7 +725,7 @@
                     "nombre": "Rusa",
                     "descripcion": "Falta descripción",
                     "precio": 30,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -739,7 +739,7 @@
                     "nombre": "Refresco",
                     "descripcion": "Falta descripción",
                     "precio": 30,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -753,7 +753,7 @@
                     "nombre": "Clamato",
                     "descripcion": "Falta descripción",
                     "precio": 40,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -767,7 +767,7 @@
                     "nombre": "Cerveza",
                     "descripcion": "Falta descripción",
                     "precio": 50,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -780,7 +780,7 @@
                     "nombre": "Cielada",
                     "descripcion": "Falta descripción",
                     "precio": 60,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -794,7 +794,7 @@
                     "nombre": "Michelada",
                     "descripcion": "Falta descripción",
                     "precio": 50,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -808,7 +808,7 @@
                     "nombre": "Michelada Clamato",
                     "descripcion": "Falta descripción",
                     "precio": 70,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -822,7 +822,7 @@
                     "nombre": "Michelada Capitán",
                     "descripcion": "Falta descripción",
                     "precio": 70,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -842,7 +842,7 @@
                     "nombre": "Dulces Árabes",
                     "descripcion": "Falta descripción",
                     "precio": 35,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -857,7 +857,7 @@
                     "nombre": "Dulces Artesanales",
                     "descripcion": "Falta descripción",
                     "precio": 35,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -871,7 +871,7 @@
                     "nombre": "Repostería",
                     "descripcion": "Falta descripción",
                     "precio": 45,
-                    "imagen": "https://www.example.com/tostada.jpg",
+                    "imagen": "../../Imagenes/",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
