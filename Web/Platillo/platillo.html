@@ -3,33 +3,94 @@
 <head>
   <meta charset="UTF-8">
   <title>Detalles del Platillo</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  
+  <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Playfair+Display:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+  
   <style>
-    .platillo-img {
-      max-width: 100%;
-      height: auto;
-      border-radius: 15px;
+    body {
+      font-family: "Lato", sans-serif;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+
+    .container {
+      max-width: 900px;
     }
 
     h1 {
-        font-size: 3.5rem;
-        margin-bottom: 20px;
-        font-family: "Playfair Display", serif;
+      font-family: "Playfair Display", serif;
+      font-size: 3rem;
+      font-weight: 700;
+      color: #0d3b66;
+      margin-bottom: 0.5rem;
     }
-    p {
-        font-size: 1.2rem;
-        line-height: 1.6;
-        font-family: "libre Baskerville", serif;
+
+    .categoria {
+      font-size: 1rem;
+      font-style: italic;
+      color: #6c757d;
     }
-    
+
+    .platillo-img {
+      width: 100%;
+      height: auto;
+      border-radius: 12px;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+      margin-top: 20px;
+    }
+
+    .precio {
+      font-family: "Libre Baskerville", serif;
+      font-size: 1.8rem;
+      color: #1e7e34;
+      margin: 20px 0 10px;
+    }
+
+    p.descripcion {
+      font-family: "Libre Baskerville", serif;
+      font-size: 1.1rem;
+      line-height: 1.6;
+      margin-bottom: 1.5rem;
+    }
+
+    h5 {
+      font-family: "Libre Baskerville", serif;
+      font-size: 1.25rem;
+      font-weight: 700;
+      margin-top: 2rem;
+      margin-bottom: 0.5rem;
+    }
+
+    ul {
+      font-size: 1rem;
+      padding-left: 1.2rem;
+    }
+
+    .btn-back {
+      margin-top: 2rem;
+      padding: 10px 20px;
+      font-weight: 600;
+    }
+
+    @media (max-width: 576px) {
+      h1 {
+        font-size: 2.2rem;
+      }
+
+      .precio {
+        font-size: 1.5rem;
+      }
+    }
   </style>
 </head>
-<body class="bg-light">
+<body>
 
-  <div class="container py-5">
+  <div class="container py-5 bg-white shadow-sm rounded">
     <div id="detalle-platillo"></div>
   </div>
 
@@ -42,7 +103,6 @@
       .then(data => {
         let encontrado = null;
 
-        // Buscar el platillo en todas las categorías
         data.menu.forEach(categoria => {
           const platillo = categoria.platillos.find(p => p.nombre === nombrePlatillo);
           if (platillo) encontrado = { platillo, categoria: categoria.categoria };
@@ -54,16 +114,16 @@
           const { platillo, categoria } = encontrado;
 
           container.innerHTML = `
-            <h1 class="mb-3">${platillo.nombre}</h1>
-            <p class="text-muted">Categoría: ${categoria}</p>
-            <img src="${platillo.imagen}" alt="${platillo.nombre}" class="platillo-img mb-4" />
-            <h4 class="text-success">$${platillo.precio}</h4>
-            <p>${platillo.descripcion}</p>
+            <h1>${platillo.nombre}</h1>
+            <div class="categoria mb-3">Categoría: ${categoria}</div>
+            <img src="${platillo.imagen}" alt="${platillo.nombre}" class="platillo-img" />
+            <div class="precio">$${platillo.precio}</div>
+            <p class="descripcion">${platillo.descripcion}</p>
             <h5>Ingredientes:</h5>
             <ul>
               ${platillo.ingredientes.map(i => `<li>${i}</li>`).join('')}
             </ul>
-            <a href="../Menu/menu.html" class="btn btn-secondary mt-4">Volver al menú</a>
+            <a href="../Menu/menu.html" class="btn btn-secondary btn-back">Volver al menú</a>
           `;
         } else {
           container.innerHTML = `<p class="text-danger">Platillo no encontrado.</p>`;
@@ -74,6 +134,7 @@
         document.getElementById('detalle-platillo').textContent = 'Error al cargar el platillo.';
       });
   </script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+  
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
