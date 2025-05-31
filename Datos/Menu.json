@@ -487,7 +487,7 @@
                     "nombre": "Ostión Piedra Vivo (4 piezas)",
                     "descripcion": "Falta descripción",
                     "precio": 360,
-                    "imagen": "../../Imagenes/ostion-piedra-vivo.png",
+                    "imagen": "../../Imagenes/ostion-piedra.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -543,7 +543,7 @@
                     "nombre": "Ostion Ahumado",
                     "descripcion": "Falta descripción",
                     "precio": 180,
-                    "imagen": "../../Imagenes/",
+                    "imagen": "../../Imagenes/ostion-ahumado.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -557,7 +557,7 @@
                     "nombre": "Orden de Queso",
                     "descripcion": "Falta descripción",
                     "precio": 40,
-                    "imagen": "../../Imagenes/",
+                    "imagen": "../../Imagenes/orden-queso.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
