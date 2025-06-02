@@ -822,7 +822,7 @@
                     "nombre": "Michelada Capitán",
                     "descripcion": "Falta descripción",
                     "precio": 70,
-                    "imagen": "../../Imagenes/",
+                    "imagen": "../../Imagenes/michelada-capitan.jpeg",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -842,7 +842,7 @@
                     "nombre": "Dulces Árabes",
                     "descripcion": "Falta descripción",
                     "precio": 35,
-                    "imagen": "../../Imagenes/",
+                    "imagen": "../../Imagenes/dulce-arabe.jpeg",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -857,7 +857,7 @@
                     "nombre": "Dulces Artesanales",
                     "descripcion": "Falta descripción",
                     "precio": 35,
-                    "imagen": "../../Imagenes/",
+                    "imagen": "../../Imagenes/dulce-artesanal.jpeg",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
