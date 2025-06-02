@@ -780,7 +780,7 @@
                     "nombre": "Cielada",
                     "descripcion": "Falta descripción",
                     "precio": 60,
-                    "imagen": "../../Imagenes/",
+                    "imagen": "../../Imagenes/cielada.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
