@@ -12,6 +12,53 @@
   <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Playfair+Display:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
 
   <style>
+
+    .header {
+      background-color: #004e92;
+      color: white;
+      padding: 15px 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .header-title {
+      font-size: 24px;
+    }
+
+    .nav-links a {
+      color: white;
+      text-decoration: none;
+      margin-left: 15px;
+    }
+
+    .nav-links a:hover {
+      text-decoration: underline;
+    }
+
+    .main {
+      padding: 20px;
+    }
+
+    .footer {
+      background-color: #222;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      margin-top: 40px;
+    }
+
+    @media (max-width: 600px) {
+      .header {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+
+      .nav-links {
+        margin-top: 10px;
+      }
+    }
+
     body {
       font-family: "Lato", sans-serif;
       background-color: #f8f9fa;
@@ -19,7 +66,7 @@
     }
 
     header {
-      background-image: url('img/hero-mariscos.jpg');
+      background-image: url('../../Imagenes/11-chef.png');
       background-size: cover;
       background-position: center;
       height: 90vh;
@@ -96,6 +143,15 @@
   </style>
 </head>
 <body>
+
+    <div class="header">
+    <div class="header-title">Capitan Pez</div>
+    <div class="nav-links">
+      <a href="../../Web/Inicio/index.html">Inicio</a>
+      <a href="../../Web/Menu/menu.html">Menú</a>
+      
+    </div>
+  </div>
 
   <header>
     <div>

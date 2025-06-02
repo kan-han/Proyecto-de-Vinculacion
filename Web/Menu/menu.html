@@ -12,6 +12,54 @@
   background-color: #f8f9fa;
 }
 
+  
+    .header {
+      background-color: #004e92;
+      color: white;
+      padding: 15px 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .header-title {
+      font-size: 24px;
+    }
+
+    .nav-links a {
+      color: white;
+      text-decoration: none;
+      margin-left: 15px;
+    }
+
+    .nav-links a:hover {
+      text-decoration: underline;
+    }
+
+    .main {
+      padding: 20px;
+    }
+
+    .footer {
+      background-color: #222;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      margin-top: 40px;
+    }
+
+    @media (max-width: 600px) {
+      .header {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+
+      .nav-links {
+        margin-top: 10px;
+      }
+    }
+
+
 h1 {
   font-family: "Playfair Display", serif;
   font-size: 3.5rem;
@@ -70,6 +118,20 @@ h2 {
 }
   </style>
 </head>
+
+  
+    <div class="header">
+    <div class="header-title">Capitan Pez</div>
+    <div class="nav-links">
+      <a href="../../Web/Inicio/index.html">Inicio</a>
+      <a href="../../Web/Menu/menu.html">Menú</a>
+      
+    </div>
+  </div>
+
+   
+
+
 <body class="bg-light">
 
   <div class="container py-4">

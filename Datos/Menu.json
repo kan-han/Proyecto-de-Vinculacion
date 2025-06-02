@@ -571,7 +571,7 @@
                     "nombre": "Orden de Aceitunas",
                     "descripcion": "Falta descripción",
                     "precio": 40,
-                    "imagen": "../../Imagenes/",
+                    "imagen": "../../Imagenes/orden-aceitunas.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -591,7 +591,7 @@
                     "nombre": "Quesadilla de Marlín",
                     "descripcion": "Falta descripción",
                     "precio": 80,
-                    "imagen": "../../Imagenes/",
+                    "imagen": "../../Imagenes/quesadilla-marlin.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -606,7 +606,7 @@
                     "nombre": "Quesadilla de Camarón",
                     "descripcion": "Falta descripción",
                     "precio": 80,
-                    "imagen": "../../Imagenes/",
+                    "imagen": "../../Imagenes/quesadilla-camaron.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -620,7 +620,7 @@
                     "nombre": "Camarones Zarandeados",
                     "descripcion": "Falta descripción",
                     "precio": 300,
-                    "imagen": "../../Imagenes/",
+                    "imagen": "../../Imagenes/camarones-zarandeados.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -634,7 +634,7 @@
                     "nombre": "Pulpo a la Parrilla",
                     "descripcion": "Falta descripción",
                     "precio": 350,
-                    "imagen": "../../Imagenes/",
+                    "imagen": "../../Imagenes/pulpo-parilla.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -648,7 +648,7 @@
                     "nombre": "Salmón Empapelado",
                     "descripcion": "Falta descripción",
                     "precio": 350,
-                    "imagen": "../../Imagenes/",
+                    "imagen": "../../Imagenes/salmon-empapelado.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -661,7 +661,7 @@
                     "nombre": "Caldo de Camarón",
                     "descripcion": "Falta descripción",
                     "precio": 240,
-                    "imagen": "../../Imagenes/",
+                    "imagen": "../../Imagenes/caldo-camaron.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -675,7 +675,7 @@
                     "nombre": "1/2 Caldo de Camarón",
                     "descripcion": "Falta descripción",
                     "precio": 210,
-                    "imagen": "../../Imagenes/",
+                    "imagen": "../../Imagenes/caldo-camaron-medio.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -689,7 +689,7 @@
                     "nombre": "Orden de Arroz",
                     "descripcion": "Falta descripción",
                     "precio": 50,
-                    "imagen": "../../Imagenes/",
+                    "imagen": "../../Imagenes/orden-arroz.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -710,7 +710,7 @@
                     "nombre": "Limonada",
                     "descripcion": "Falta descripción",
                     "precio": 50,
-                    "imagen": "../../Imagenes/",
+                    "imagen": "../../Imagenes/limonada.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -725,7 +725,7 @@
                     "nombre": "Rusa",
                     "descripcion": "Falta descripción",
                     "precio": 30,
-                    "imagen": "../../Imagenes/",
+                    "imagen": "../../Imagenes/rusa.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -739,7 +739,7 @@
                     "nombre": "Refresco",
                     "descripcion": "Falta descripción",
                     "precio": 30,
-                    "imagen": "../../Imagenes/",
+                    "imagen": "../../Imagenes/refresco.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -753,7 +753,7 @@
                     "nombre": "Clamato",
                     "descripcion": "Falta descripción",
                     "precio": 40,
-                    "imagen": "../../Imagenes/",
+                    "imagen": "../../Imagenes/clamato.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -767,7 +767,7 @@
                     "nombre": "Cerveza",
                     "descripcion": "Falta descripción",
                     "precio": 50,
-                    "imagen": "../../Imagenes/",
+                    "imagen": "../../Imagenes/cerveza.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -794,7 +794,7 @@
                     "nombre": "Michelada",
                     "descripcion": "Falta descripción",
                     "precio": 50,
-                    "imagen": "../../Imagenes/",
+                    "imagen": "../../Imagenes/michelada.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
@@ -808,7 +808,7 @@
                     "nombre": "Michelada Clamato",
                     "descripcion": "Falta descripción",
                     "precio": 70,
-                    "imagen": "../../Imagenes/",
+                    "imagen": "../../Imagenes/michelada-clamato.png",
                     "disponibilidad": true,
                     "ingredientes": [
                         "Ingrediente 1",
