@@ -6,11 +6,24 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet">
+
   <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
   <style>
+
+
+    .navbar a {
+      color: white !important;
+      font-family: "Lato", sans-serif;
+    }
+
     body {
-  background-color: #f8f9fa;
-}
+      background-image: url('/Imagenes/fondo.jpg');
+      background-repeat: repeat; /* repite la imagen en ambas direcciones */
+      background-position: top left; /* desde la esquina superior izquierda */
+      background-size: auto; /* tamaño original para que se repita */
+      background-color: #f8f9fa; /* fallback si la imagen no carga */
+    }
 
   
     .header {
@@ -24,6 +37,11 @@
 
     .header-title {
       font-size: 24px;
+    }
+
+
+    #tostadas h2{
+      color: white;
     }
 
     .nav-links a {
@@ -40,13 +58,7 @@
       padding: 20px;
     }
 
-    .footer {
-      background-color: #222;
-      color: white;
-      text-align: center;
-      padding: 20px;
-      margin-top: 40px;
-    }
+    
 
     @media (max-width: 600px) {
       .header {
@@ -74,7 +86,7 @@ h1 {
 
 h2 {
   font-size: 2rem;
-  color: #007bff;
+  color: #ff0000;
   border-bottom: 2px solid #dee2e6;
   padding-bottom: 10px;
 }
@@ -117,25 +129,35 @@ h2 {
   color: #6c757d;
 }
 
-footer {
-      background-color: #0d3b66;
-      color: white;
-      padding: 2rem 0;
-      text-align: center;
-      margin-top: 4rem;
-    }
+
   </style>
 </head>
 
   
-    <div class="header">
-    <div class="header-title">Capitan Pez</div>
-    <div class="nav-links">
-      <a href="../../Web/Inicio/index.html">Inicio</a>
-      <a href="../../Web/Menu/menu.html">Menú</a>
-      
-    </div>
-  </div>
+    <nav class="navbar navbar-expand-lg"  style="background-color: #031075;">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="/Web/Inicio/index.html">
+          <img src="../../Imagenes/logotipo.webp" alt="Logo" width="30" height="30" class="d-inline-block align-text-top">
+          Capitan Pez
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="../../Web/Inicio/index.html">Inicio</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="../../Web/Inicio/index.html#ubicacion">Ubicación</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="../../Web/Menu/menu.html">Menú</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
 
    
 
@@ -143,92 +165,174 @@ footer {
 <body class="bg-light">
 
   <div class="container py-4">
-    <h1 class="mb-4 text-center">Menú</h1>
+    <h1 class="mb-4 text-center" style="color: white;">Menú</h1>
+
+    <!--navbar de secciones-->
+<nav id="secciones-navbar" class="navbar navbar-expand-lg sticky-top" style="background-color: #031075; z-index: 1020; margin-bottom: 1.5rem;">
+  <div class="container-fluid">
+    <ul id="secciones-list" class="navbar-nav flex-row gap-3 mx-auto">
+      <!-- Aquí se agregarán los links dinámicamente -->
+    </ul>
+  </div>
+</nav>
+
+
     <div id="menu-container"></div>
   </div>
 
-  <footer>
-    <p>&copy; 2025 Capitan Pez. Todos los derechos reservados.</p>
-  </footer>
+  <footer style="background-color: #031075; color: white; text-align: center; padding: 20px;">
+  <p style="margin: 0 0 10px;">&copy; 2025 Capitan Pez. Todos los derechos reservados.</p>
+  
+  <!-- Redes sociales -->
+  <div style="margin-top: 10px;">
+    <a href="https://www.facebook.com/" target="_blank" style="color: white; margin: 0 10px; font-size: 1.5rem;">
+      <i class="bi bi-facebook"></i>
+    </a>
+    <a href="https://www.instagram.com/" target="_blank" style="color: white; margin: 0 10px; font-size: 1.5rem;">
+      <i class="bi bi-instagram"></i>
+    </a>
+    <a href="https://wa.me/5210000000000" target="_blank" style="color: white; margin: 0 10px; font-size: 1.5rem;">
+      <i class="bi bi-whatsapp"></i>
+    </a>
+    <a href="mailto:contacto@capitanpez.com" style="color: white; margin: 0 10px; font-size: 1.5rem;">
+      <i class="bi bi-envelope"></i>
+    </a>
+  </div>
+</footer>
+
+  
 
   <script>
     fetch('../../Datos/Menu.json')
-      .then(res => res.json())
-      .then(data => {
-        const menu = data.menu;
-        const container = document.getElementById('menu-container');
+    .then(res => res.json())
+    .then(data => {
+      const menu = data.menu;
+      const container = document.getElementById('menu-container');
+      const seccionesList = document.getElementById('secciones-list');
 
-        menu.forEach(categoria => {
-          // Crear contenedor de categoría
-          const categoriaDiv = document.createElement('div');
-          categoriaDiv.className = 'categoria';
+      menu.forEach(categoria => {
+        // Crear enlace en navbar
+        const li = document.createElement('li');
+        li.className = 'nav-item';
 
-          // Título de la categoría
-          const titulo = document.createElement('h2');
-          titulo.className = 'text-primary mb-3 border-bottom pb-2';
-          titulo.textContent = categoria.categoria;
+        const a = document.createElement('a');
+        a.className = 'nav-link text-white';
+        a.href = `#${categoria.categoria.toLowerCase().replace(/\s+/g, '-')}`;
+        a.textContent = categoria.categoria;
 
-          categoriaDiv.appendChild(titulo);
+        li.appendChild(a);
+        seccionesList.appendChild(li);
 
-          // Grid de tarjetas
-          const row = document.createElement('div');
-          row.className = 'row g-4'; // espaciado entre columnas
+        // Crear contenedor de categoría
+        const categoriaDiv = document.createElement('div');
+        categoriaDiv.className = 'categoria';
 
-          categoria.platillos.forEach(platillo => {
-            const col = document.createElement('div');
-            col.className = 'col-md-4'; // 3 columnas por fila
+        categoriaDiv.id = categoria.categoria.toLowerCase().replace(/\s+/g, '-'); // ID para ancla
 
-            const card = document.createElement('div');
-            card.className = 'card h-100 shadow';
+        // Título de la categoría
+        const titulo = document.createElement('h2');
+        titulo.className = 'text-primary mb-3 border-bottom pb-2';
+        titulo.textContent = categoria.categoria;
 
-            const img = document.createElement('img');
-            img.src = platillo.imagen;
-            img.alt = platillo.nombre;
-            img.className = 'card-img-top';
+        categoriaDiv.appendChild(titulo);
 
-            const cardBody = document.createElement('div');
-            cardBody.className = 'card-body';
+        // Grid de tarjetas
+        const row = document.createElement('div');
+        row.className = 'row g-4'; // espaciado entre columnas
 
-            const nombre = document.createElement('h5');
-            nombre.className = 'card-title';
-            nombre.textContent = platillo.nombre;
+        categoria.platillos.forEach(platillo => {
+          const col = document.createElement('div');
+          col.className = 'col-md-4'; // 3 columnas por fila
 
-            const precio = document.createElement('p');
-            precio.className = 'card-text text-success fw-bold';
-            precio.textContent = `$${platillo.precio}`;
+          const card = document.createElement('div');
+          card.className = 'card h-100 shadow';
 
-            const descripcion = document.createElement('p');
-            descripcion.className = 'card-text text-muted';
-            descripcion.textContent = platillo.descripcion;
+          const img = document.createElement('img');
+          img.src = platillo.imagen;
+          img.alt = platillo.nombre;
+          img.className = 'card-img-top';
 
-            cardBody.appendChild(nombre);
-            cardBody.appendChild(precio);
-            cardBody.appendChild(descripcion);
+          const cardBody = document.createElement('div');
+          cardBody.className = 'card-body';
 
-            card.appendChild(img);
-            card.appendChild(cardBody);
+          const nombre = document.createElement('h5');
+          nombre.className = 'card-title';
+          nombre.textContent = platillo.nombre;
 
-// Hacer clicable
-            card.style.cursor = 'pointer';
-            card.addEventListener('click', () => {
+          const precio = document.createElement('p');
+          precio.className = 'card-text text-success fw-bold';
+          precio.textContent = `$${platillo.precio}`;
+
+          const descripcion = document.createElement('p');
+          descripcion.className = 'card-text text-muted';
+          descripcion.textContent = platillo.descripcion;
+
+          cardBody.appendChild(nombre);
+          cardBody.appendChild(precio);
+          cardBody.appendChild(descripcion);
+
+          card.appendChild(img);
+          card.appendChild(cardBody);
+
+          // Hacer clicable
+          card.style.cursor = 'pointer';
+          card.addEventListener('click', () => {
             const nombreURL = encodeURIComponent(platillo.nombre);
             window.location.href = `../../Web/Platillo/platillo.html?nombre=${nombreURL}`;
-            });
-
-            col.appendChild(card);
-            row.appendChild(col);
           });
 
-          categoriaDiv.appendChild(row);
-          container.appendChild(categoriaDiv);
+          col.appendChild(card);
+          row.appendChild(col);
         });
-      })
-      .catch(err => {
-        console.error('Error al cargar el menú:', err);
-        document.getElementById('menu-container').textContent = 'Error al cargar el menú.';
+
+        categoriaDiv.appendChild(row);
+        container.appendChild(categoriaDiv);
       });
+    })
+    .catch(err => {
+      console.error('Error al cargar el menú:', err);
+      document.getElementById('menu-container').textContent = 'Error al cargar el menú.';
+    });
   </script>
 
+  <button id="btnSubir" title="Subir arriba" style="
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 1050;
+  background-color: #ffffff;
+  color: rgb(5, 23, 189);
+  border: none;
+  border-radius: 50%;
+  width: 45px;
+  height: 45px;
+  font-size: 22px;
+  cursor: pointer;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+  display: none;
+">
+  &#8679;
+</button>
+
+<script>
+  const btnSubir = document.getElementById('btnSubir');
+  const navBarMenu = document.querySelector('h1'); // El título "Menú"
+
+  // Mostrar botón solo si bajan más de 200px
+  window.onscroll = () => {
+    if (window.scrollY > 200) {
+      btnSubir.style.display = 'block';
+    } else {
+      btnSubir.style.display = 'none';
+    }
+  };
+
+  btnSubir.addEventListener('click', () => {
+    navBarMenu.scrollIntoView({ behavior: 'smooth' });
+  });
+</script>
+
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+  
 </body>
 </html>
