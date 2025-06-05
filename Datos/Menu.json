@@ -5,99 +5,111 @@
             "platillos": [
                 {
                     "nombre": "Tostada de Mariscos",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Tostada crujiente con una mezcla fresca de mariscos marinados en jugo de limón, acompañados de aguacate y un toque de chile.",
                     "precio": 210,
                     "imagen": "../../Imagenes/tostada-mariscos.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Camarón cocido",
+                        "Pulpo",
+                        "Callo de hacha",
+                        "Aguacate",
+                        "Limón",
+                        "Chile serrano",
+                        "Cebolla morada"
                     ]
                 },
                 
 
                 {
                     "nombre": "Tostada de Atún",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Láminas de atún fresco sobre tostada con base de guacamole, bañadas en salsa de soya y ajonjolí.",
                     "precio": 220,
                     "imagen": "../../Imagenes/tostada-atun.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Atún fresco",
+                        "Guacamole",
+                        "Soya",
+                        "Ajonjolí",
+                        "Limón",
+                        "Pepino"
                     ]
                 },
 
                 {
                     "nombre": "Orden de Atún (3T)",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Tres tostadas de atún fresco preparadas al estilo de la casa, con toques cítricos y picantes.",
                     "precio": 600,
                     "imagen": "../../Imagenes/orden-atun.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Atún fresco",
+                        "Guacamole",
+                        "Soya",
+                        "Ajonjolí",
+                        "Cebolla morada",
+                        "Limón"
                     ]
                 },
 
                 {
                     "nombre": "Tostada de Salmón",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Delicadas láminas de salmón sobre tostada con crema de aguacate, eneldo y reducción de limón.",
                     "precio": 220,
                     "imagen": "../../Imagenes/tostada-salmon.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Salmón fresco",
+                        "Aguacate",
+                        "Limón",
+                        "Eneldo",
+                        "Cebollín"
                     ]
                 },
 
                 {
                     "nombre": "Orden de Salmón (3T)",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Tres tostadas de salmón con guacamole y aderezo cítrico, perfectas para compartir.",
                     "precio": 600,
                     "imagen": "../../Imagenes/orden-salmon.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Salmón fresco",
+                        "Guacamole",
+                        "Ajonjolí",
+                        "Salsa ponzu",
+                        "Limón"
                     ]
                 },
                 {
                     "nombre": "Tostada JL",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Receta especial de la casa, combinación de mariscos con ingredientes secretos que dan un sabor único.",
                     "precio": 280,
                     "imagen": "../../Imagenes/tostada-jl.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Mezcla de mariscos",
+                        "Salsa especial de la casa",
+                        "Aguacate",
+                        "Pepino",
+                        "Limón"
                     ]
                 },
 
                 {
                     "nombre": "Tostada de Ceviche",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Tradicional ceviche de pescado sobre tostada, con jitomate, cilantro, cebolla y limón.",
                     "precio": 60,
                     "imagen": "../../Imagenes/tostada-ceviche.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Pescado blanco",
+                        "Jitomate",
+                        "Cebolla",
+                        "Cilantro",
+                        "Limón",
+                        "Chile verde"
                     ]
                 }
 
@@ -110,85 +122,87 @@
             "platillos": [
                 {
                     "nombre": "Coctel Grande",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Refrescante mezcla de camarón, pulpo y jitomate, con un toque de limón y chile verde, perfecto para disfrutar en cualquier momento.",
                     "precio": 240,
                     "imagen": "../../Imagenes/coctel-grande.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Camarón",
+                        "Pulpo",
+                        "Jitomate",
+                        "Limón",
+                        "Chile verde"
                     ]
                 },
                 
 
                 {
                     "nombre": "Coctel Mediano",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Versión perfecta para los que buscan un sabor intenso y fresco con camarón, cebolla y cilantro, acompañado de jugo de tomate.",
                     "precio": 210,
                     "imagen": "../../Imagenes/coctel-mediano.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Camarón",
+                        "Jitomate",
+                        "Cebolla",
+                        "Cilantro",
+                        "Limón"
                     ]
                 },
 
                 {
                     "nombre": "Coctel al Clamato",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Sabor único con jugo Clamato, camarón, chile verde y limón, ideal para los amantes de los cocteles con un toque especial.",
                     "precio": 260,
                     "imagen": "../../Imagenes/coctel-clamato.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Clamato",
+                        "Camarón",
+                        "Chile verde",
+                        "Limón"
                     ]
                 },
 
                 {
                     "nombre": "Cazuela",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Cazuela grande con mezcla de mariscos frescos, preparada con jitomate, cebolla y chile para un sabor inolvidable.",
                     "precio": 240,
                     "imagen": "../../Imagenes/cazuela-entera.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                         "Camarón",
+                        "Pulpo",
+                        "Jitomate",
+                        "Cebolla",
+                        "Chile"
                     ]
                 },
 
                 {
                     "nombre": "1/2 Cazuela",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Media cazuela con los mejores mariscos, acompañada de salsa especial y un toque de limón.",
                     "precio": 210,
                     "imagen": "../../Imagenes/cazuela-media.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Camarón",
+                        "Pulpo",
+                        "Jitomate",
+                        "Cebolla"
                     ]
                 },
                 {
                     "nombre": "Shot de Ostión",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Delicioso shot de ostión fresco, con un toque de limón y salsa picante para empezar con todo.",
                     "precio": 40,
                     "imagen": "../../Imagenes/shot-ostion.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Ostión fresco",
+                        "Limón",
+                        "Salsa picante"
                     ]
                 }
             ]
@@ -199,183 +213,183 @@
             "platillos": [
                 {
                     "nombre": "Botana",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Exquisita mezcla de mariscos frescos, acompañados con salsa especial, aguacate y limón para abrir el apetito.",
                     "precio": 380,
                     "imagen": "../../Imagenes/botana.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Camarón",
+                        "Pulpo",
+                        "Aguacate",
+                        "Limón",
+                        "Salsa especial"
                     ]
                 },
                 
 
                 {
                     "nombre": "1/2 Botana",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Media porción de nuestra botana tradicional, perfecta para compartir o disfrutar solo.",
                     "precio": 290,
                     "imagen": "../../Imagenes/botana-media.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Camarón",
+                        "Pulpo",
+                        "Aguacate",
+                        "Limón"
                     ]
                 },
 
                 {
                     "nombre": "Angulas",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Angulas frescas preparadas con aceite de oliva y un toque de ajo, un clásico que no puede faltar.",
                     "precio": 400,
                     "imagen": "../../Imagenes/angulas.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Angulas frescas",
+                        "Aceite de oliva",
+                        "Ajo",
+                        "Perejil"
                     ]
                 },
 
                 {
                     "nombre": "Carpaccio de Salmón",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Delicado carpaccio de salmón con un toque de limón, aceite de oliva y alcaparras para un sabor fresco y sofisticado.",
                     "precio": 380,
                     "imagen": "../../Imagenes/carpaccio-salmon.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Salmón fresco",
+                        "Limón",
+                        "Aceite de oliva",
+                        "Alcaparras"
                     ]
                 },
 
                 {
                     "nombre": "1/2 Carpaccio de Salmón",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Media porción del carpaccio de salmón, ideal para una entrada ligera y deliciosa.",
                     "precio": 300,
                     "imagen": "../../Imagenes/carpaccio-salmon-media.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Salmón fresco",
+                        "Limón",
+                        "Aceite de oliva",
+                        "Alcaparras"
                     ]
                 },
                 {
                     "nombre": "Salmón Canadá",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Salmón canadiense preparado a la perfección, acompañado de ensalada fresca y salsa especial.",
                     "precio": 400,
                     "imagen": "../../Imagenes/salmon-canada.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Salmón canadiense",
+                        "Ensalada fresca",
+                        "Salsa especial",
+                        "Limón"
                     ]
                 },
 
                 {
                     "nombre": "1/2 Salmón Canadá",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Media porción del salmón canadiense, perfecta para un antojo ligero y nutritivo.",
                     "precio": 320,
                     "imagen": "../../Imagenes/salmon-canada-media.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Salmón canadiense",
+                        "Ensalada fresca",
+                        "Limón"
                     ]
                 },
 
                 {
                     "nombre": "Aguachile",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Fresca preparación de camarón marinado en limón, chile verde y cilantro, para los que aman el sabor picante y fresco.",
                     "precio": 380,
                     "imagen": "../../Imagenes/aguachile.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Camarón",
+                        "Limón",
+                        "Chile verde",
+                        "Cilantro",
+                        "Cebolla"
                     ]
                 },
 
                 {
                     "nombre": "1/2 Aguachile",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Media porción de aguachile, ideal para compartir o para un antojo ligero y picante.",
                     "precio": 290,
                     "imagen": "../../Imagenes/aguachile-media.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Camarón",
+                        "Limón",
+                        "Chile verde",
+                        "Cilantro",
+                        "Cebolla"
                     ]
                 },
 
                 {
                     "nombre": "Carpaccio de Atún",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Atún fresco en finas láminas, servido con limón, aceite de oliva y toques de pimienta para un sabor delicado.",
                     "precio": 380,
                     "imagen": "../../Imagenes/carpaccio-atun.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Atún fresco",
+                        "Limón",
+                        "Aceite de oliva",
+                        "Pimienta"
                     ]
                 },
 
                 {
                     "nombre": "Atún Canadá",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Delicioso atún canadiense acompañado de ensalada fresca y aderezo especial para una experiencia única.",
                     "precio": 400,
                     "imagen": "../../Imagenes/atun-canada.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Atún canadiense",
+                        "Ensalada fresca",
+                        "Aderezo especial",
+                        "Limón"
                     ]
                 },
 
                 {
                     "nombre": "1/2 Atún Canadá",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Media porción de atún canadiense, perfecta para disfrutar un sabor fresco y nutritivo.",
                     "precio": 320,
                     "imagen": "../../Imagenes/atun-canada-medio.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Atún canadiense",
+                        "Ensalada fresca",
+                        "Limón"
                     ]
                 },
 
                 {
                     "nombre": "Abulon Vivo",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Abulón fresco servido vivo, con limón y salsa picante para los que buscan una experiencia auténtica y única.",
                     "precio": 150,
                     "imagen": "../../Imagenes/abulon-vivo.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Abulón fresco",
+                        "Limón",
+                        "Salsa picante"
                     ]
                 }
 
@@ -387,197 +401,197 @@
             "platillos": [
                 {
                     "nombre": "Callo de Acha",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Deliciosos callos frescos preparados al estilo tradicional, con un toque especial de especias que resaltan su sabor marino.",
                     "precio": 430,
                     "imagen": "../../Imagenes/callo-acha.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Callos frescos",
+                        "Limón",
+                        "Chile serrano",
+                        "Cilantro"
                     ]
                 },
                 
 
                 {
                     "nombre": "Tenazas (3 o 4 piezas)",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Tenazas jugosas, cocidas a la perfección para que disfrutes su sabor natural y textura suave.",
                     "precio": 320,
                     "imagen": "../../Imagenes/tenazas.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Tenazas frescas",
+                        "Sal marina",
+                        "Mantequilla",
+                        "Limón"
                     ]
                 },
 
                 {
                     "nombre": "Orden de Ostion",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Ostiones frescos directamente del mar, servidos con salsa especial para realzar su sabor único.",
                     "precio": 160,
                     "imagen": "../../Imagenes/orden-ostion.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Ostiones frescos",
+                        "Salsa picante",
+                        "Limón",
+                        "Cebolla morada"
                     ]
                 },
 
                 {
                     "nombre": "1/2 Orden de Ostion",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Media orden de ostiones frescos, ideal para compartir o para un antojo ligero y delicioso.",
                     "precio": 120,
                     "imagen": "../../Imagenes/orden-ostion-media.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Ostiones frescos",
+                        "Salsa picante",
+                        "Limón",
+                        "Cebolla morada"
                     ]
                 },
 
                 {
                     "nombre": "Almeja Melón (1 pieza)",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Almeja Melón fresca y jugosa, perfecta para disfrutar con un toque cítrico y picante.",
                     "precio": 200,
                     "imagen": "../../Imagenes/almeja-melon.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Almeja Melón",
+                        "Chile habanero",
+                        "Limón",
+                        "Cilantro"
                     ]
                 },
                 {
                     "nombre": "Almeja Chocolata (4 piezas)",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Cuatro piezas de almeja Chocolata frescas, servidas con salsa especial y limón.",
                     "precio": 320,
                     "imagen": "../../Imagenes/almeja-chocolata.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Almeja Chocolata",
+                        "Limón",
+                        "Chile serrano",
+                        "Cilantro"
                     ]
                 },
 
                 {
                     "nombre": "Almeja Roja (1 pieza)",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Almeja Roja de excelente calidad, preparada para resaltar su sabor natural.",
                     "precio": 100,
                     "imagen": "../../Imagenes/almeja-roja.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Almeja Roja",
+                        "Limón",
+                        "Chile",
+                        "Sal"
                     ]
                 },
 
                 {
                     "nombre": "Ostión Piedra Vivo (4 piezas)",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Cuatro ostiones vivos frescos, una delicia natural del mar para los paladares exigentes.",
                     "precio": 360,
                     "imagen": "../../Imagenes/ostion-piedra.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Ostión Piedra Vivo",
+                        "Limón",
+                        "Salsa especial",
+                        "Cilantro"
                     ]
                 },
 
                 {
                     "nombre": "Trucha Ahumada",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Trucha fresca, ahumada lentamente para ofrecer un sabor intenso y delicado a la vez.",
                     "precio": 280,
                     "imagen": "../../Imagenes/trucha-ahumada.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Trucha ahumada",
+                        "Aceite de oliva",
+                        "Limón",
+                        "Eneldo"
                     ]
                 },
 
                 {
                     "nombre": "Ostión a la Jardinera (9 piezas)",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Nueve ostiones preparados a la jardinera, con salsa especial y vegetales frescos que encantan.",
                     "precio": 280,
                     "imagen": "../../Imagenes/ostion-jardinera.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Ostiones",
+                        "Jitomate",
+                        "Cebolla",
+                        "Chile"
                     ]
                 },
 
                 {
                     "nombre": "1/2 Ostión a la Jardinera (5 piezas)",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Media orden de ostiones a la jardinera, perfecta para una experiencia deliciosa y ligera",
                     "precio": 180,
                     "imagen": "../../Imagenes/ostion-jardinera-media.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Ostiones",
+                        "Jitomate",
+                        "Cebolla",
+                        "Chile"
                     ]
                 },
 
                 {
                     "nombre": "Ostion Ahumado",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Ostión ahumado con un toque único de sabor, ideal para los amantes de lo gourmet.",
                     "precio": 180,
                     "imagen": "../../Imagenes/ostion-ahumado.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Ostión",
+                        "Madera de ahumado",
+                        "Sal",
+                        "Limón"
                     ]
                 },
 
                 {
                     "nombre": "Orden de Queso",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Porción de queso fresco para acompañar tus platillos favoritos, con un sabor cremoso y suave.",
                     "precio": 40,
                     "imagen": "../../Imagenes/orden-queso.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Queso fresco",
+                        "Hierbas finas",
+                        "Aceite de oliva",
+                        "Sal"
                     ]
                 },
 
                 {
                     "nombre": "Orden de Aceitunas",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Porción de aceitunas selectas, perfectas para abrir el apetito y complementar cualquier platillo.",
                     "precio": 40,
                     "imagen": "../../Imagenes/orden-aceitunas.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Aceitunas verdes",
+                        "Aceitunas negras",
+                        "Aceite de oliva",
+                        "Especias"
                     ]
                 }
 
@@ -588,114 +602,114 @@
             "categoria": "Cocina Caliente",
             "platillos": [
                 {
-                    "nombre": "Quesadilla de Marlín",
+                    "nombre": "Deliciosa quesadilla rellena de marlín, con un sabor único y tradicional.",
                     "descripcion": "Falta descripción",
                     "precio": 80,
                     "imagen": "../../Imagenes/quesadilla-marlin.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Masa de maíz",
+                        "Marlín desmenuzado",
+                        "Queso",
+                        "Especias"
                     ]
                 },
                 
 
                 {
                     "nombre": "Quesadilla de Camarón",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Quesadilla crujiente rellena de camarón fresco, perfecta para los amantes del mar.",
                     "precio": 80,
                     "imagen": "../../Imagenes/quesadilla-camaron.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Masa de maíz",
+                        "Camarón",
+                        "Queso",
+                        "Chile y especias"
                     ]
                 },
 
                 {
                     "nombre": "Camarones Zarandeados",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Camarones marinados y asados al estilo zarandeado, con un toque ahumado y picante.",
                     "precio": 300,
                     "imagen": "../../Imagenes/camarones-zarandeados.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Camarones frescos",
+                        "Salsa especial zarandeada",
+                        "Ajo",
+                        "Chile chipotle"
                     ]
                 },
 
                 {
                     "nombre": "Pulpo a la Parrilla",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Pulpo fresco asado a la parrilla, acompañado de especias y jugo de limón.",
                     "precio": 350,
                     "imagen": "../../Imagenes/pulpo-parilla.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Pulpo",
+                        "Limón",
+                        "Ajo",
+                        "Aceite de oliva"
                     ]
                 },
 
                 {
                     "nombre": "Salmón Empapelado",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Salmón fresco cocinado en papel aluminio con hierbas aromáticas y verduras.",
                     "precio": 350,
                     "imagen": "../../Imagenes/salmon-empapelado.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Salmón",
+                        "Verduras surtidas",
+                        "Hierbas finas",
+                        "Limón"
                     ]
                 },
                 {
                     "nombre": "Caldo de Camarón",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Caldo caliente con camarón, verduras frescas y especias que calientan el alma.",
                     "precio": 240,
                     "imagen": "../../Imagenes/caldo-camaron.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Camarones",
+                        "Caldo de pollo",
+                        "Verduras",
+                        "Especias"
                     ]
                 },
 
                 {
                     "nombre": "1/2 Caldo de Camarón",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Media porción del tradicional caldo de camarón, ideal para un antojo ligero.",
                     "precio": 210,
                     "imagen": "../../Imagenes/caldo-camaron-medio.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Camarones",
+                        "Caldo de pollo",
+                        "Verduras",
+                        "Especias"
                     ]
                 },
 
                 {
                     "nombre": "Orden de Arroz",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Porción de arroz blanco, ideal para acompañar tus platillos favoritos.",
                     "precio": 50,
                     "imagen": "../../Imagenes/orden-arroz.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Arroz blanco",
+                        "Agua",
+                        "Sal",
+                        "Aceite"
                     ]
                 }
 
@@ -708,127 +722,127 @@
             "platillos": [
                 {
                     "nombre": "Limonada",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Refrescante limonada hecha con limones frescos y un toque de azúcar natural.",
                     "precio": 50,
                     "imagen": "../../Imagenes/limonada.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Jugo de limón",
+                        "Agua",
+                        "Azúcar",
+                        "Hielo"
                     ]
                 },
                 
 
                 {
                     "nombre": "Rusa",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Bebida tradicional con sabor dulce y cítrico, perfecta para acompañar tus platillos.",
                     "precio": 30,
                     "imagen": "../../Imagenes/rusa.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Jugo de naranja",
+                        "Jugo de toronja",
+                        "Agua mineral",
+                        "Azúcar"
                     ]
                 },
 
                 {
                     "nombre": "Refresco",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Variedad de refrescos fríos para refrescar tu paladar.",
                     "precio": 30,
                     "imagen": "../../Imagenes/refresco.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Agua carbonatada",
+                        "Azúcar",
+                        "Saborizantes naturales",
+                        "Colorantes"
                     ]
                 },
 
                 {
                     "nombre": "Clamato",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Bebida refrescante a base de jugo de tomate con clamato y un toque de limón.",
                     "precio": 40,
                     "imagen": "../../Imagenes/clamato.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Jugo de tomate",
+                        "Jugo de almeja",
+                        "Limón",
+                        "Especias"
                     ]
                 },
 
                 {
                     "nombre": "Cerveza",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Cerveza fría ideal para acompañar tus comidas y momentos de relax.",
                     "precio": 50,
                     "imagen": "../../Imagenes/cerveza.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Agua",
+                        "Malta",
+                        "Lúpulo",
+                        "Levadura"
                     ]
                 },
                 {
                     "nombre": "Cielada",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Cerveza servida con hielo y un toque de limón para una bebida refrescante y ligera.",
                     "precio": 60,
                     "imagen": "../../Imagenes/cielada.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Cerveza",
+                        "Hielo",
+                        "Limón",
+                        "Sal (opcional)"
                     ]
                 },
 
                 {
                     "nombre": "Michelada",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Cerveza preparada con jugo de limón, salsa picante y especias, ideal para los días calurosos.",
                     "precio": 50,
                     "imagen": "../../Imagenes/michelada.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Cerveza",
+                        "Jugo de limón",
+                        "Salsa inglesa",
+                        "Salsa picante"
                     ]
                 },
 
                 {
                     "nombre": "Michelada Clamato",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Michelada con jugo de clamato que le aporta un sabor único y refrescante.",
                     "precio": 70,
                     "imagen": "../../Imagenes/michelada-clamato.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Cerveza",
+                        "Jugo de clamato",
+                        "Jugo de limón",
+                        "Salsa picante"
                     ]
                 },
 
                 {
                     "nombre": "Michelada Capitán",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Michelada especial con ingredientes adicionales que realzan su sabor y frescura.",
                     "precio": 70,
                     "imagen": "../../Imagenes/michelada-capitan.jpeg",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Cerveza",
+                        "Jugo de clamato",
+                        "Jugo de limón",
+                        "Salsas y especias especiales"
                     ]
                 }
 
@@ -840,44 +854,44 @@
             "platillos": [
                 {
                     "nombre": "Dulces Árabes",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Deliciosos dulces tradicionales árabes con sabores intensos y texturas variadas, elaborados con ingredientes auténticos",
                     "precio": 35,
                     "imagen": "../../Imagenes/dulce-arabe.jpeg",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Miel",
+                        "Nueces",
+                        "Harina de trigo",
+                        "Especias (canela, clavo)"
                     ]
                 },
                 
 
                 {
                     "nombre": "Dulces Artesanales",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Dulces elaborados a mano con recetas tradicionales y sabor casero, perfectos para un postre dulce y reconfortante.",
                     "precio": 35,
                     "imagen": "../../Imagenes/dulce-artesanal.jpeg",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Azúcar",
+                        "Frutas secas",
+                        "Leche",
+                        "Esencias naturales"
                     ]
                 },
 
                 {
                     "nombre": "Repostería",
-                    "descripcion": "Falta descripción",
+                    "descripcion": "Variedad de postres frescos y deliciosos, elaborados con ingredientes de calidad para endulzar tu día.",
                     "precio": 45,
                     "imagen": "../../Imagenes/postres.png",
                     "disponibilidad": true,
                     "ingredientes": [
-                        "Ingrediente 1",
-                        "Ingrediente 2",
-                        "Ingrediente 3",
-                        "Ingrediente 4"
+                        "Harina",
+                        "Huevos",
+                        "Azúcar",
+                        "Mantequilla"
                     ]
                 }
 
